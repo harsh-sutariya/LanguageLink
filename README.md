@@ -7,9 +7,7 @@
 4. [Getting Started](#getting-started)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [Citation](#citation)
-8. [License](#license)
-9. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Project Overview
 Welcome to LanguageLink, a comprehensive project that focuses on both multilingual sentence similarity and language detection! LanguageLink aims to bridge language barriers and enhance the capabilities of various natural language processing applications. Our project includes two core components:
@@ -41,7 +39,7 @@ To get started with the project, follow these steps:
 
 ## Usage
 ### Multilingual Sentence Similarity
-To use the multilingual sentence similarity model, refer to the usage instructions provided in the [Documentation](documentation_link_here).
+To use the multilingual sentence similarity model, refer to the usage instructions provided in the _Final Report.pdf_.
 
 ### Language Detection
 For language detection, simply call the relevant function or endpoint as described in the documentation. It will predict the language of the input sentence.
